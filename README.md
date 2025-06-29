@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Swift app**
 
-- 🌱 I’m currently learning **Swif**
+- 🌱 I’m currently learning **Swift**
 
 - 👨‍💻 All of my projects are available at [https://github.com/anhkietnguyen1708](https://github.com/anhkietnguyen1708)
 
